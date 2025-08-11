@@ -4,7 +4,7 @@
 
 ## Materia: Ofimática y tecnología multimedia OTM-106
 
-## Captura de Gráficas
+## GENERACIÓN DE GRÁFICAS CON PYTHON 
 
 Gráfico1 Barras
 ![Gráfico1 Barras](Output/grafica_1_barras.png)
@@ -39,7 +39,7 @@ Gráfico5 pastel
 Gráfico ejemplo Barras
 ![Gráfico ejemplo Barras](Output/grafica_ejemplo_barras.png)
 
-Gráfico4 ejemplo pastel 
+Gráfico ejemplo pastel 
 ![Gráfico ejemplo pastel](Output/grafica_ejemplo_pastel.png)
 
 
