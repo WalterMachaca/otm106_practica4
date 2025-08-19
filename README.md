@@ -37,7 +37,7 @@ Gráfico5 pastel
 ![Gráfico5 pastel](Generados/grafica_5_pastel.png)
 
 Gráfico ejemplo Barras
-![Gráfico ejemplo Barras](Generados/grafica_ejemplo_barras.png)
+![Gráfico ejemplo Barras](Generados/grafica_ejemplo_barra.png)
 
 Gráfico ejemplo pastel 
 ![Gráfico ejemplo pastel](Generados/grafica_ejemplo_pastel.png)
